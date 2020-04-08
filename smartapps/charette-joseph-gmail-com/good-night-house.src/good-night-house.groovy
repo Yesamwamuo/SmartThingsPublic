@@ -59,7 +59,7 @@ def installed()
 def updated()
 {
 	log.debug "Updated with settings: ${settings}"
-	log.debug "Current mode = ${location.mode}"
+	log.debug "Current mode Baddddddddddddd code= ${location.mode}"
 	unsubscribe()
 	subscribe(app, appTouch)
 }
