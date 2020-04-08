@@ -51,7 +51,7 @@ preferences {
 def installed()
 {
 	log.debug "Installed with settings: ${settings}"
-	log.debug "Current mode is = ${location.mode}"
+	log.debug "Unstable Current mode is = ${location.mode}"
 	subscribe(app, appTouch)
 }
 
