@@ -1,4 +1,4 @@
-# SmartThings Public Repo
+# SmartThings Public GitHub Repo
 
 An official list of SmartApps and Device Types from SmartThings.
 
