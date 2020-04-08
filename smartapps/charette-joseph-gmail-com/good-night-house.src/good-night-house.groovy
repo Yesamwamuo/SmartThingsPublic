@@ -50,7 +50,7 @@ preferences {
 
 def installed()
 {
-	log.debug "Installed with settings: ${settings}"
+	log.debug "Installed with ok settings: ${settings}"
 	log.debug "Current mode = ${location.mode}"
 	subscribe(app, appTouch)
 }
